@@ -8,9 +8,9 @@ Publicar el contenido de esta carpeta en la raíz de la fuente configurada en Gi
 
 ## Documentos
 
-- `normativa/`: resolución y oficio (dos páginas), Reglamento con sus anexos, Anexo N°1 independiente, Programa y malla 2027.
+- `normativa/`: resoluciones VRA N°495/2026 y N°498/2024 con sus respectivos oficios (dos páginas cada una), Reglamento con sus anexos, Anexo N°1 independiente, Programa y malla 2027.
 - `formularios/`: inscripción, inscripción en empresa propia y plan de práctica.
-- `informe-evaluacion/`: plantilla, instrumento de competencias genéricas y rúbricas en PDF y DOCX.
+- `informe-evaluacion/`: plantilla de informe en DOCX e instrumento oficial de competencias genéricas en PDF. La pauta del supervisor contiene únicamente las seis páginas del anexo de la Resolución VRA N°498/2024, con los logos y el contenido originales. La resolución y el oficio se descargan por separado desde `normativa/`.
 - `assets/`: logo institucional y malla en imagen.
 
 La fuente normativa identificada es la Res. VRA N°495/2026, que oficializa el Libro de Carrera 2027. No se incluye el Libro completo. El Programa remite la aprobación al Reglamento y su Anexo N°1.
