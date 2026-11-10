@@ -6,6 +6,10 @@ Guía para Ingeniería Comercial de la Escuela de Ciencias Empresariales, Univer
 
 Publicar el contenido de esta carpeta en la raíz de la fuente configurada en GitHub Pages. Se incluye `.nojekyll`; las rutas son relativas y no hay dependencias externas de ejecución. La guía ofrece también el recorrido y las descargas cuando JavaScript está desactivado.
 
+## Presentación para estudiantes
+
+Abrir `presentacion.html` para recorrer diez pantallas de práctica tradicional y tres de empresa propia. Incluye mapa, navegación con flechas, diagramas por pasos y tres preguntas con explicación. La pantalla de requisitos abre la malla dentro de la presentación, con las asignaturas requeridas destacadas y controles de ampliación. Las opciones de impresión y descarga permiten llevar una lista del proceso. Los archivos `assets/presentacion.css` y `assets/presentacion.js` forman parte de la presentación, y `assets/lista-practica.txt` contiene la lista descargable. Conservarlos al publicar.
+
 ## Documentos
 
 - `normativa/`: resoluciones VRA N°495/2026 y N°498/2024 con sus respectivos oficios (dos páginas cada una), Reglamento con sus anexos, Anexo N°1 independiente, Programa y malla 2027.
@@ -15,7 +19,7 @@ Publicar el contenido de esta carpeta en la raíz de la fuente configurada en Gi
 
 La fuente normativa identificada es la Res. VRA N°495/2026, que oficializa el Libro de Carrera 2027. No se incluye el Libro completo. El Programa remite la aprobación al Reglamento y su Anexo N°1.
 
-El procedimiento de Secretaría y el calendario corresponden a los acuerdos del encargo: correo `secreingeco@ucn.cl` y cierre de postulación el 15 de enero de 2027. El informe de empresa propia debe entregarse dentro de treinta días corridos desde la inscripción, conforme al artículo 30.
+El procedimiento de Secretaría y el calendario corresponden a los acuerdos del encargo: correo `secreingeco@ucn.cl` y cierre de postulación el 15 de enero de 2027. El término de la práctica se notifica por correo en un máximo de diez días corridos desde su fecha de término; recibida la notificación, Secretaría envía el formato de constancia para gestionar la firma y el timbre de la empresa y devolverlo a Secretaría. En la práctica tradicional, el informe se deriva a revisión académica una vez recibida la evaluación aprobatoria del supervisor directo; el académico dispone de un máximo de treinta días corridos desde la recepción del informe para evaluarlo. El período de registro académico se confirma con Secretaría. El informe de empresa propia debe entregarse dentro de treinta días corridos desde la inscripción, conforme al artículo 30.
 
 ## Mantención
 
