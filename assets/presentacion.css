@@ -99,3 +99,26 @@ body:not(.js) #deck-curriculum .curriculum-controls{margin-top:14px}
 #tradicional-2 .map-caption strong{color:#fff}
 @media(max-width:640px){#tradicional-2 .process-map button{border-left-color:#77a7c0}#tradicional-2 .process-map button:nth-child(4){border-left-color:#83bea3}#tradicional-2 .process-map button:nth-child(n+5){border-left-color:#d4b074}#tradicional-2 .map-caption p{padding:15px 17px}#tradicional-2 .map-caption strong{display:block;margin-bottom:4px}}
 @media print{#tradicional-2 .process-map button{background:#fff;color:#142f40;border:2px solid var(--phase);box-shadow:none}#tradicional-2 .process-map .map-number,#tradicional-2 .process-map strong,#tradicional-2 .process-map small{color:#142f40;opacity:1}#tradicional-2 .map-caption p{background:#fff;color:#142f40;border:0;border-left:4px solid var(--phase);border-radius:0}#tradicional-2 .map-caption strong{color:#142f40}}
+
+/* Pantalla final compartida: acceso al recurso completo mediante QR. */
+.qr-layout{display:grid;grid-template-columns:1.13fr 1fr;align-items:center;gap:65px}
+.qr-message{min-width:0}
+.qr-intro{font-size:24px;line-height:1.5;max-width:560px;color:#365765}
+.qr-topics{list-style:none;padding:0;margin:23px 0 29px;display:grid;gap:15px}
+.qr-topics li{font-size:22px;line-height:1.45;border-left:3px solid #83aa94;padding-left:18px;color:#183747}
+.qr-message .button{font-size:18px;min-height:54px;padding:14px 24px}
+.qr-contact{font-size:15px;color:#526874;line-height:1.65;margin-top:27px}
+.qr-contact a{font-size:20px;font-weight:600;line-height:1.5;color:#075c51;text-decoration:none}
+.qr-figure{margin:0;justify-self:center;width:min(100%,380px)}
+.qr-image-link{display:block;background:#fff;padding:40px;border:1px solid #cbdad1;border-radius:12px;box-shadow:0 8px 24px #1837470a;line-height:0}
+.qr-image-link img{display:block;width:100%;height:auto;max-width:100%;object-fit:contain}
+.qr-figure figcaption{font-size:14px;line-height:1.5;text-align:center;color:#526874;margin-top:14px}
+.qr-url{font-size:15px;font-weight:550;color:#315c66;overflow-wrap:anywhere;line-height:1.5;max-width:100%}
+@media(min-width:1700px){.qr-figure{width:470px}.qr-intro{font-size:28px}.qr-topics li{font-size:26px}.qr-message .button{font-size:20px;min-height:59px}.qr-contact{font-size:17px}.qr-contact a{font-size:24px}.qr-url{font-size:17px}}
+@media(min-width:1000px) and (max-height:850px){.qr-layout{gap:48px}.qr-figure{width:328px}.qr-image-link{padding:32px}.qr-intro{font-size:22px}.qr-topics{gap:12px;margin-top:19px;margin-bottom:24px}.qr-topics li{font-size:20px}.qr-message .button{font-size:16px;min-height:49px;padding:12px 21px}.qr-contact{margin-top:21px;font-size:13px}.qr-contact a{font-size:18px}.qr-figure figcaption{font-size:12px;margin-top:11px}.qr-url{font-size:13px}}
+@media(max-width:900px){.qr-layout{gap:32px;grid-template-columns:1.1fr 1fr}.qr-intro{font-size:22px}.qr-topics li{font-size:20px}.qr-image-link{padding:32px}.qr-message .button{font-size:16px;padding:13px 18px}.qr-contact a{font-size:18px}}
+@media(max-width:640px){.qr-layout{grid-template-columns:1fr;gap:29px}.qr-intro{font-size:20px;line-height:1.5}.qr-topics{gap:13px;margin:20px 0 24px}.qr-topics li{font-size:18px;padding-left:14px}.qr-message .button{width:100%;font-size:16px;min-height:49px}.qr-contact{font-size:13px;line-height:1.6;margin-top:23px}.qr-contact a{font-size:19px}.qr-figure{width:min(100%,340px)}.qr-image-link{padding:30px;border-radius:9px}.qr-figure figcaption{font-size:12px;margin-top:13px}.qr-url{font-size:12px;line-height:1.6}}
+@media print{.qr-layout{grid-template-columns:1fr 1fr;gap:12mm}.qr-figure{width:90mm}.qr-image-link{padding:8mm;border:1px solid #bbb;border-radius:0;box-shadow:none}.qr-figure figcaption{font-size:10pt}.qr-intro{font-size:15pt}.qr-topics li{font-size:13pt}.qr-contact{font-size:11pt}.qr-contact a{font-size:12pt}.qr-url.source-link{display:block;font-size:10pt}.qr-message .button{display:none}}
+
+.qr-closing .slide-heading{border:0;padding-bottom:0}
+@media(min-width:1000px) and (max-height:850px){.qr-closing{gap:16px;padding-top:23px;padding-bottom:20px}.qr-closing h1{font-size:44px}.qr-closing .lede{font-size:19px;margin-top:10px}.qr-closing .qr-figure{width:300px}}

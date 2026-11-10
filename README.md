@@ -8,7 +8,7 @@ Publicar el contenido de esta carpeta en la raíz de la fuente configurada en Gi
 
 ## Presentación para estudiantes
 
-Abrir `presentacion.html` para recorrer diez pantallas de práctica tradicional y tres de empresa propia. Incluye mapa, navegación con flechas, diagramas por pasos y tres preguntas con explicación. La pantalla de requisitos abre la malla dentro de la presentación, con las asignaturas requeridas destacadas y controles de ampliación. Las opciones de impresión y descarga permiten llevar una lista del proceso. Los archivos `assets/presentacion.css` y `assets/presentacion.js` forman parte de la presentación, y `assets/lista-practica.txt` contiene la lista descargable. Conservarlos al publicar.
+Abrir `presentacion.html` para recorrer diez pantallas de práctica tradicional y tres de empresa propia, más una pantalla final con el QR de la guía completa, compartida por ambos recorridos (once pantallas en tradicional y cuatro en empresa propia). Incluye mapa, navegación con flechas, diagramas por pasos y tres preguntas con explicación. La pantalla de requisitos abre la malla dentro de la presentación, con las asignaturas requeridas destacadas y controles de ampliación. Las opciones de impresión y descarga permiten llevar una lista del proceso. Los archivos `assets/presentacion.css` y `assets/presentacion.js` forman parte de la presentación, y `assets/lista-practica.txt` contiene la lista descargable. El archivo `assets/qr-guia-practica.png` corresponde al QR del cierre y también forma parte del recurso. Conservarlos al publicar.
 
 ## Documentos
 

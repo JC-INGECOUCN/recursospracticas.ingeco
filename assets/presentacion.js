@@ -17,7 +17,7 @@
   let route = 'tradicional';
   let index = 0;
   let printing = false;
-  const currentSlides = () => slides.filter(s => s.dataset.route === route);
+  const currentSlides = () => slides.filter(s => s.dataset.route === route || s.dataset.route === 'comun');
   function menuItems() {
     menu.replaceChildren();
     currentSlides().forEach((slide, i) => {
